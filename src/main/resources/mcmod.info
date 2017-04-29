@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fatsteve",
+  "name": "Fat Steve",
+  "description": "Makes Steve work out.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CreeperShift"],
+  "credits": "Nobody, fuck off...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["immersiveengineering"]
+}
+]
